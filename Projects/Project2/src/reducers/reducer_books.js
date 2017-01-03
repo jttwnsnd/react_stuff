@@ -1,8 +1,8 @@
-function() {
+export default function() {
   return [
-    {title: 'Javascript: The Good Parts'},
-    {title: 'The Hobbit'},
-    {title: 'The Vue Point'},
-    {title: 'The Prince of Thorns'}
+    {title: 'Javascript: The Good Parts', pages: 101},
+    {title: 'The Hobbit', pages: 382},
+    {title: 'The Vue Point', pages: 32},
+    {title: 'The Prince of Thorns', pages: 287}
   ]
 }

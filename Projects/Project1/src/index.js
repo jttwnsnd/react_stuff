@@ -9,7 +9,7 @@ import VideoList from "./components/video-list";
 import VideoDetail from './components/video-detail';
 
 //My Api key for this project. will be deleted once project is done, so be sure to create a new one from google.
-const API_KEY = 'AIzaSyAa6eCwuRMYNI4VAXLW5qKNAyKL6Di6r_4';
+const API_KEY = 'AIzaSyC47ww-CztlMigN76-VoU2cbKW9E1GZvhw';
 //Create a new component. This component should produce
 // some html
 
